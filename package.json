@@ -1,0 +1,25 @@
+{
+  "name": "redux-todo",
+  "version": "1.0.0",
+  "description": "A simple todo app in Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaceyWhitmore/redux-todo.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "demo",
+    "todo"
+  ],
+  "author": "Stacey Whitmore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StaceyWhitmore/redux-todo/issues"
+  },
+  "homepage": "https://github.com/StaceyWhitmore/redux-todo#readme"
+}
